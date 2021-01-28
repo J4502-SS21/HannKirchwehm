@@ -1,2 +1,2 @@
 # HannKirchwehm
-https://J4502-SS21.github.io/HannKirchwehm/
+https://j4502-ss21.github.io/HannKirchwehm/
