@@ -8,6 +8,10 @@ nav {
   color: green;
 }
 
+ul {
+  list-style-type: none;
+}
+
 nav a {
   color:grey
   text-decoration:none;
@@ -15,10 +19,4 @@ nav a {
   font-style: oblique;
   font-weight: bold;
   text-transform: uppercase;
-}
-
-
-
-ul {
-  list-style-type:none;
 }
