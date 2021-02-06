@@ -1,9 +1,13 @@
 body {
-  background:#555;
+  background:#C8EBC1;
   text-align:center;
   color: white
 }
 
 nav {
   color: orange;
+}
+
+ul {
+  list-style-type:none;
 }
