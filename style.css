@@ -21,6 +21,7 @@ ul {
 li {
   width: 45%;
   float: left;
+  margin: 20px auto;
 }
 
 nav a {
@@ -30,4 +31,9 @@ nav a {
   font-style: oblique;
   font-weight: bold;
   text-transform: uppercase;
+}
+
+a:hover {
+  color: black;
+  background: white;
 }
