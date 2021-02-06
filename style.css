@@ -6,6 +6,8 @@ body {
 
 nav {
   color: green;
+  background: black;
+  border-bottom: 3px solid white;
 }
 
 ul {
