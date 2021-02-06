@@ -1,5 +1,5 @@
 body {
-  background: #grey;
+  background: #555;
   text-align:center;
   color: grey
   margin: 0;
@@ -18,8 +18,13 @@ ul {
   list-style-type: none;
 }
 
+li {
+  width: 45%;
+  float: left;
+}
+
 nav a {
-  color:grey
+  color: orange;
   text-decoration:none;
   font-size: 20px;
   font-style: oblique;
