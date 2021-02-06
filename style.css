@@ -5,8 +5,14 @@ body {
 }
 
 nav {
-  color: orange;
+  color: white;
 }
+
+nav a {
+  color:red
+}
+
+
 
 ul {
   list-style-type:none;
