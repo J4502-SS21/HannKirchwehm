@@ -1,11 +1,11 @@
 body {
-  background:#green;
+  background:#grey;
   text-align:center;
   color: white
 }
 
 nav {
-  color: green;
+  color:grey;
   background: black;
   border-bottom: 3px solid white;
 }
