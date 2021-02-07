@@ -59,8 +59,14 @@ margin: 7px auto;
 
 
 img{
-  margin: 50px auto;
+  margin: 50px; auto;
   width: 75%;
   max-width: 400px;
   min-width: 200px;
+}
+
+section {
+  background:green
+  padding: 20px auto;
+  box-shadow: 1px 1px 15px black;
 }
