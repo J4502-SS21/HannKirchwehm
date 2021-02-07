@@ -9,6 +9,7 @@ body {
 }
 
 nav {
+  font-family: 'Poppins', sans-serif;
   color: black;
   background: black;
   border-bottom: 3px solid white;
