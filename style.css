@@ -9,9 +9,9 @@ body {
 nav {
   color: black;
   background: black;
-  border-bottom: 3px solid white;
+  border-bottom: 8px solid white;
   width: 100%;
-  margin: 1;
+  margin: 2;
 }
 
 ul {
