@@ -2,16 +2,16 @@ body {
   background:#555;
   text-align:center;
   color:grey
-  margin: 1;
+  margin: 0;
   width: 100%;
 }
 
 nav {
   color: black;
   background: black;
-  border-bottom: 8px solid white;
+  border-bottom: 3px solid white;
   width: 100%;
-  margin: 2;
+  margin: 1;
 }
 
 ul {
