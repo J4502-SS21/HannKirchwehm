@@ -38,3 +38,15 @@ nav a:hover, p a:hover{
   color: red;
   background: grey;
 }
+
+h1 {
+  font-size: 40px
+}
+
+h2 {
+  font-size: 25px
+}
+
+h1, h2 {
+  font-weiht: bold;
+}
