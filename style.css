@@ -59,6 +59,8 @@ margin: 7px auto;
 
 
 img{
-  margin: 50px;
+  margin: 50px auto;
   width: 75%;
+  max-width: 400px;
+  min-width: 200px;
 }
