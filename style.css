@@ -34,7 +34,7 @@ a {
   text-transform: uppercase;
 }
 
-a:hover {
+nav a:hover, p a:hover{
   color: red;
   background: grey;
 }
