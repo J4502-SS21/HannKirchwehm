@@ -1,13 +1,13 @@
 body {
   background:#555;
-  text-align:center;
+  text-align: center;
   color:grey
   margin: ;
   width: 100%;
 }
 
 nav {
-  color: white;
+  color: black;
   background: black;
   border-bottom: 3px solid white;
   width: 100%;
@@ -28,13 +28,13 @@ li {
 nav a {
   color: green;
   text-decoration:none;
-  font-size: 18px;
+  font-size: 14px;
   font-style: oblique;
   font-weight: bold;
   text-transform: uppercase;
 }
 
 a:hover {
-  color: black;
+  color: red;
   background: white;
 }
