@@ -9,7 +9,7 @@ body {
 }
 
 nav {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Anton', sans-serif;
   color: black;
   background: black;
   border-bottom: 3px solid white;
@@ -29,6 +29,7 @@ li {
 }
 
 a {
+font-family: 'Poppins', sans-serif;
   color: green;
   text-decoration: none;
   font-size: 14px;
