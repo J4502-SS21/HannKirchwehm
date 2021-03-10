@@ -1,7 +1,7 @@
 body {
   background:#555;
   text-align: center;
-  color:grey
+  color: #C0EAD0
   margin: 0;
   width: 100%;
   padding-bottom: 50px;
@@ -29,7 +29,7 @@ li {
 }
 
 a {
-  color: 57,43,88;
+  color: #392B58;
   text-decoration: none;
   font-size: 16px;
   font-style: oblique;
