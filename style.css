@@ -9,9 +9,9 @@ body {
 }
 
 nav {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto Slab', sans-serif;
   color: black;
-  background: black;
+  background: #A28497;
   border-bottom: 3px solid white;
   width: 100%;
   margin: 0;
