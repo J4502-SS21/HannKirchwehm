@@ -17,11 +17,19 @@ nav {
   margin: 0px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  flex-direction: column;
+}
+
+.search {
+  flex: 1;
 }
 
 ul {
-  list-style-type:none;
+list-style-type: none;
+ margin: 0;
+ padding: 0;
+ display: flex;
+ justify-content: space-around;
 }
 
 li {
@@ -39,9 +47,18 @@ a {
   text-transform: uppercase;
 }
 
+@media all and (max-width: 600px) {
+nav ul {
+flex-direction: column;
+}
+nav ul li {
+text-align: center;
+}
+}
+
 nav a:hover, p a:hover{
   color: white;
-  background: #A28497;
+  background: #grey;
 }
 
 h1 {
