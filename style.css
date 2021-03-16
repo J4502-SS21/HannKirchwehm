@@ -9,17 +9,19 @@ body {
 }
 
 nav {
-  font-family: 'Roboto Slab', sans-serif;
-  color: black;
-  background: #A28497;
-  border-bottom: 3px solid white;
+  font-family: 'Antic Slab', sans-serif;
+  color: #green;
+  background: green;
+  border-bottom: 0px solid white;
   width: 100%;
-  margin: 0;
-  display: inline-block;
+  margin: 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 ul {
-  list-style-type: none;
+  list-style-type:none;
 }
 
 li {
@@ -29,7 +31,7 @@ li {
 }
 
 a {
-  color: #392B58;
+  color: white;
   text-decoration: none;
   font-size: 16px;
   font-style: oblique;
@@ -38,8 +40,8 @@ a {
 }
 
 nav a:hover, p a:hover{
-  color: red;
-  background: grey;
+  color: white;
+  background: #A28497;
 }
 
 h1 {
