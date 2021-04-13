@@ -48,6 +48,9 @@ a {
   text-transform: uppercase;
 }
 
+#menu_nav {
+  display: none;
+}
 
 @media all and (max-width: 600px) {
 nav ul {
