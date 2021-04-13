@@ -62,6 +62,9 @@ text-align: center;
   right: 0px;
 }
 
+#menu_nav {
+  display: none;
+}
 
 nav a:hover, p a:hover{
   color: white;
