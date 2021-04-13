@@ -56,18 +56,21 @@ flex-direction: column;
 nav ul li {
 text-align: center;
 }
-}
+
 
 #menu_trigger {
   display: block;
   position: absolute;
   top: 0px;
   right: 0px;
-}
+  }
 
-#menu_trigger {
+#menu_nav {
   display: none;
 }
+
+}
+
 
 nav a:hover, p a:hover{
   color: white;
