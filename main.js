@@ -7,5 +7,10 @@ var menuTrigger = document.getElementById('menu_triggger');
 
 
 menuTrigger.onclick = function(){
-  console.log("Hi");
+  if (menuNav.style.display === "flex") {
+    menuNav.style.display = "none";
+  } else {
+    menuNav.style.display = "flex";
+  }
+  console.log("The menu has been toggled!")
 }
