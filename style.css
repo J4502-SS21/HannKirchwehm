@@ -24,8 +24,6 @@ nav {
   display: none;
 }
 
-@media (max-width: 600px) {
-
 
 ul {
 list-style-type: none;
@@ -50,7 +48,6 @@ li {
 
 #menu_nav {
   display: none;
-  }
 }
 
 a {
