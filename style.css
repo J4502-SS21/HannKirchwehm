@@ -55,6 +55,9 @@ text-align: center;
 }
 }
 
+#menu_trigger {
+  display: block;
+}
 
 nav a:hover, p a:hover{
   color: white;
