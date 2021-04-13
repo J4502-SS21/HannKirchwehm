@@ -20,10 +20,6 @@ nav {
   flex-direction: column;
 }
 
-#menu_trigger {
-  display: none;
-}
-
 
 ul {
 list-style-type: none;
@@ -39,16 +35,6 @@ li {
   margin: 20px auto;
 }
 
-#menu_trigger {
-  display: block;
-  position: absolute;
-  top: 10px;
-  right: 10px;
-}
-
-#menu_nav {
-  display: none;
-}
 
 a {
   color: white;
