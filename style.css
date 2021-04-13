@@ -20,6 +20,9 @@ nav {
   flex-direction: column;
 }
 
+#menu_trigger {
+  display: none;
+}
 
 ul {
 list-style-type: none;
