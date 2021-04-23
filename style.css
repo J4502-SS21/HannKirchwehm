@@ -1,7 +1,7 @@
 body.index {
-  background:#555;
+  background:#white;
   text-align: center;
-  color: #C0EAD0
+  color: #white
   margin: 0;
   width: 100%;
   padding-bottom: 50px;
@@ -10,8 +10,8 @@ body.index {
 
 nav {
   font-family: 'Antic Slab', sans-serif;
-  color: #green;
-  background: green;
+  color: #306754;
+  background: 306754;
   border-bottom: 0px solid white;
   width: 100%;
   margin: 0px;
@@ -102,16 +102,16 @@ img{
 }
 
 section{
-  background: green;
+  background: 306754;
   padding-top: 20px;
   padding-bottom: 20px;
   box-shadow: 1px 1px 15px black;
 }
 
 body.portoflio {
-  background:#555;
+  background:#white;
   text-align: center;
-  color: #C0EAD0
+  color: #white
   margin: 0;
   width: 100%;
   padding-bottom: 50px;
@@ -120,8 +120,8 @@ body.portoflio {
 
 nav {
   font-family: 'Antic Slab', sans-serif;
-  color: #green;
-  background: green;
+  color: #306754;
+  background: 306754;
   border-bottom: 0px solid white;
   width: 100%;
   margin: 0px;
@@ -212,7 +212,7 @@ img{
 }
 
 section{
-  background: green;
+  background: 306754;
   padding-top: 20px;
   padding-bottom: 20px;
   box-shadow: 1px 1px 15px black;
