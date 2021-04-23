@@ -104,9 +104,9 @@ img{
 
 section{
   background: #BCC6CC;
-  padding-top: 20px;
+  padding-top: 10px;
   padding-bottom: 20px;
-  box-shadow:;
+  box-shadow: 1px 1px 1px black;
 }
 
 
