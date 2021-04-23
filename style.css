@@ -315,7 +315,9 @@ h1, h2 {
 
 p{
 font-size: 18px
-margin: 7px auto;
+margin: 10px auto;
+float: middle;
+padding right: 10px;
 }
 
 
