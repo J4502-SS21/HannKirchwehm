@@ -210,8 +210,8 @@ margin: 7px auto;
 img{
   margin: 50px; auto;
   width: 75%;
-  max-width: 800px;
-  min-width: 600px;
+  max-width: 600px;
+  min-width: 400px;
 }
 
 section{
