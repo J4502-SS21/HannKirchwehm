@@ -11,7 +11,7 @@ body.index {
 nav {
   font-family: 'Antic Slab', sans-serif;
   color: #306754;
-  background: 306754;
+  background:#306754;
   border-bottom: 0px solid white;
   width: 100%;
   margin: 0px;
@@ -37,7 +37,7 @@ li {
 
 
 a {
-  color: white;
+  color:#green;
   text-decoration: none;
   font-size: 16px;
   font-style: oblique;
@@ -72,7 +72,7 @@ text-align: center;
 
 
 nav a:hover, p a:hover{
-  color: white;
+  color: #306754;
   background: #grey;
 }
 
