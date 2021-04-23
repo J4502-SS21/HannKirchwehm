@@ -102,10 +102,10 @@ img{
 }
 
 section{
-  background: 306754;
-  padding-top: 20px;
+  background: #306754;
+  padding-top: 50px;
   padding-bottom: 20px;
-  box-shadow: 1px 1px 15px black;
+  box-shadow: 1px 1px 1px black;
 }
 
 body.portoflio {
